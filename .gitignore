@@ -54,6 +54,7 @@ dkms.conf
 # Binaries
 bin/
 build/
+test_folder/
 
 # VS Code
 .vscode/
